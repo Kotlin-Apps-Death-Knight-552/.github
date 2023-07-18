@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+# Light Novels Project
+
+This "Organization" was established by me exclusively to streamline the process of tracking and downloading light novels more conveniently.
+
+
+## Tech Stack
+
+**EPUB Library:** Readium
+
+
+## Authors
+
+- [Knight Shrestha](https://github.com/Death-Knight-552)
+
+
 <!--
 
 **Here are some ideas to get you started:**
