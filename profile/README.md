@@ -4,10 +4,11 @@
 
 This "Organization" was established by me exclusively to streamline the process of tracking and downloading light novels more conveniently.
 
+## Product
 
-## Tech Stack
+- Android app: [Light Novel](https://github.com/Light-Novels/Light-novel-with-readium) 
+[![](https://img.shields.io/github/v/release/Light-Novels/Light-novel-with-readium?label=Release)](https://github.com/Light-Novels/Light-novel-with-readium/releases/latest)
 
-**EPUB Library:** Readium
 
 
 ## Authors
