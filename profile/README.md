@@ -1,14 +1,19 @@
-## Hi there 👋
 
-# Light Novels Project
+# Kotlin Apps
 
-This "Organization" was established by me exclusively to streamline the process of tracking and downloading light novels more conveniently.
+Hi, I'm Knight Shrestha! 👋
+
+This is my organization where I keep the apps I have been learning which are made in kotlin.
+
+
 
 ## Product
 
 - Android app: [Light Novel](https://github.com/Light-Novels/Light-novel-with-readium) 
 [![](https://img.shields.io/github/v/release/Light-Novels/Light-novel-with-readium?label=Release)](https://github.com/Light-Novels/Light-novel-with-readium/releases/latest)
 
+- Bookmarks: [Bookmarks](https://github.com/Kotlin-Apps-Death-Knight-552/Bookmarks) 
+[![](https://img.shields.io/github/v/release/Kotlin-Apps-Death-Knight-552/Bookmarks?label=Release)](https://github.com/Kotlin-Apps-Death-Knight-552/Bookmarks/releases/latest)
 
 
 ## Authors
